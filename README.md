@@ -1,5 +1,5 @@
 # hello-world
-My first code in github
+This is my first apparition in github
 
 Hi, my name is Pedro! This is my first time using github although I'm not a total begginer in coding (I'm sort of a begginer)
 I've learned C, Java, and a little web coding too! (CSS, HTML5, JS) 
